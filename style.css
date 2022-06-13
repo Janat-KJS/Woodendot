@@ -1,0 +1,1076 @@
+body{
+	background-color: #e5e5e5;
+}
+
+.wrapper{
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.container {
+	
+	margin: 0 auto;
+}
+
+.ul{
+	display: flex;
+}
+
+.li-link{
+	list-style-type: none;
+	margin-right: 20px;
+	margin-top: 5px;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+}
+
+.li-link-right{
+	list-style-type: none;
+	margin: 0px 328px;
+	font-size: 30px;
+}
+/*******************container end**********************/
+
+
+/*******************container_1 start********************/
+.container_1 {
+	
+	margin: 0 auto;
+	height: 698px;
+	background: url(Img/IMAGE.png) no-repeat;
+	background-size: 100%;
+}
+
+.header_center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 628px;
+	width: 807px;
+	margin: 0 auto;
+	color: white;
+	font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 38px;
+
+}
+
+.header_but{
+	padding: 3px 38px;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: white;
+    border: 1px solid white;
+}
+
+.header_p2{
+	margin: 9px 20px;
+	padding: 15px;
+	padding-right: 10px;
+	border: 1px solid white;
+	color: white;
+	width: 270px;
+	background-color: black;
+}
+
+/********************* container_1 end ***********************/
+
+
+/********************* container_2 start *********************/
+
+
+.container_2 {
+	margin: 0 auto;
+	height: 160px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+.header_photo{
+	background: url(Img/auto.svg);
+	background-repeat: no-repeat;
+	width: 225px;
+	background-size: 80px;
+}
+
+.header_photo_p{
+	display: flex; 
+	justify-content: flex-end;
+	width: 200px;
+}
+
+.header_photo_2{
+	background: url(Img/star.svg);
+	background-repeat: no-repeat;
+	width: 225px;
+	background-size: 55px;
+}
+.header_photo_p2{
+	display: flex; 
+	justify-content: flex-end;
+}
+
+
+.header_photo_3{
+	background: url(Img/Image3.svg);
+	background-repeat: no-repeat;
+	width: 225px;
+	background-size: 45px;
+}
+.header_photo_p3{
+	display: flex; 
+	justify-content: flex-end;
+	width: 200px;
+}
+
+.header_photo_4{
+	background: url(Img/Image4.svg);
+	background-repeat: no-repeat;
+	width: 225px;
+	background-size: 50	px;
+}
+
+.header_photo_p4{
+	display: flex; 
+	justify-content: flex-end;
+	width: 180px;
+}
+
+
+.header_photo_5{
+	width: 225px;
+}
+
+.header_photo_p5{
+	display: flex; 
+	justify-content: flex-end;
+	width: 180px;
+}
+
+/********************* container_2 end *********************/
+
+/********************* container_3 start *********************/
+
+.container_3 {
+	margin: 0 auto;
+	height: 320px;
+	display: flex;
+}
+
+.header_block{
+	background: url(Img/foto1.png) no-repeat;
+	width: 376px;
+	height: 320px;
+	background-size: 100%;
+}
+.header_block2{
+	background: url(Img/foto2.png) no-repeat;
+	width: 376px;
+	height: 320px;
+    background-size: 100%;
+}
+.header_block3{
+	background: url(Img/foto3.png) no-repeat;
+	width: 376px;
+	height: 320px;
+    background-size: 100%;
+}
+.header_block4{
+	background: url(Img/foto4.png) no-repeat;
+	width: 376px;
+	height: 320px;
+    background-size: 100%;
+}
+/********************* container_3 end *********************/
+
+/********************* container_4 start *******************/
+
+.container_4{
+	height: 567px;
+	display: flex;
+}
+
+.header_box{
+	display: flex;
+}
+
+.header_left{
+	width: 567px;
+	height: 560px;
+}
+
+.header_left_h{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 56px;
+    width: 554px;
+    margin-top: 130px;
+}
+
+.header_left_p{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;   
+    line-height: 37px;
+    width: 554px;
+}
+
+.header_left_p2{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: right;
+    width: 465px;
+    margin-left: 88px;
+}
+
+.header_left_click{
+	font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: black;
+    padding-left: 477px;
+}
+
+
+.header_right{
+	width: 932px;
+	height: 560px;
+}
+
+.header_right_photo{
+	width: 905px;
+	height: 490px;
+	background: url(Img/table.png) no-repeat;
+	background-size: 96%;
+	position: relative;
+	top: 73px;
+	
+}
+
+/********************* container_4 end *******************/
+
+/********************* container_5 start *******************/
+
+
+.container_5{
+	height: 510px;
+	display: flex;
+}
+
+.header_boxing{
+	display: flex;
+}
+
+.header_left2{
+	width: 932px;
+	height: 560px;
+}
+
+.header_left_photo{
+	width: 905px;
+	height: 490px;
+	background: url(Img/pelican.png) no-repeat;
+	background-size: 100%;
+	position: relative;
+	top: 10px;
+	right: 0px;
+}
+
+.header_right2{
+	width: 531px;
+	height: 560px;
+}
+
+.header_right_h{
+	display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 56px;
+    width: 100px;
+}
+
+.header_right_p{
+	display: flex;
+    justify-content: flex-start;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;   
+    line-height: 37px;
+    width: 185px;
+}
+
+.header_right_p2{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: left;
+    width: 395px;
+}
+
+.header_right_click{
+	font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    color: black;
+}
+
+/********************* container_5 end *******************/
+
+/********************* container_6 start *******************/
+
+.container_6{
+	height: 509px;
+	display: flex;
+}
+
+.header_book{
+	display: flex;
+}
+
+.header_left3{
+	width: 567px;
+	height: 560px;
+}
+
+.header_favorit{
+	font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: red;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 43px;
+
+}
+
+.header_left_h2{
+	display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 56px;
+    width: 554px;
+}
+
+.header_left_par{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;   
+    line-height: 37px;
+    width: 554px;
+}
+
+.header_left_p3{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: right;
+    width: 382px;
+    margin-left: 169px;
+}
+
+.header_right3{
+	width: 932px;
+	height: 560px;
+}
+
+.header_right_photo3{
+	width: 905px;
+	height: 490px;
+	background: url(Img/alada.png) no-repeat;
+	background-size: 96%;
+	position: relative;
+	top: 12px;
+	
+}
+
+/********************* container_6 end *******************/
+
+/********************* container_7 start *******************/
+
+.container_7{
+	height: 538px;
+	display: flex;
+}
+
+.header_evant{
+	display: flex;
+}
+
+.header_left4{
+	width: 932px;
+	height: 560px;
+}
+
+.header_left_photo2{
+	width: 905px;
+	height: 490px;
+	background: url(Img/alba.png) no-repeat;
+	background-size: 100%;
+	position: relative;
+	top: 10px;
+	right: 0px;
+}
+
+.header_right4{
+	width: 531px;
+	height: 560px;
+}
+
+.header_right_h4{
+	display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 56px;
+    width: 205px;
+    margin-top: 42px;
+}
+
+.header_right_p3{
+	display: flex;
+    justify-content: flex-start;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;   
+    line-height: 34px;
+    width: 185px;
+}
+
+.header_right_p4{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: left;
+    width: 375px;
+}
+
+.header_right_click2{
+	font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 40px;
+    color: black;
+}
+
+.awards{
+	width: 230px;
+	height: 70px;
+	background: url(Img/awards.svg) no-repeat;
+}
+
+/********************* container_7 end *******************/
+
+/********************* container_8 start *******************/
+
+.container_8{
+	height: 509px;
+	display: flex;
+}
+
+.header_tea{
+	display: flex;
+}
+
+.header_left5{
+	width: 567px;
+	height: 560px;
+}
+
+.header_left_h3{
+	display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 56px;
+    width: 554px;
+}
+
+.header_left_paris{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;   
+    line-height: 37px;
+    width: 554px;
+}
+
+.header_left_p4{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: right;
+    width: 382px;
+    margin-left: 169px;
+}
+
+.header_left_click2{
+	font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 40px;
+    color: black;
+    padding-left: 477px;
+}
+
+.header_right5{
+	width: 932px;
+	height: 560px;
+}
+
+.header_right_photo4{
+	width: 905px;
+	height: 490px;
+	background: url(Img/batea.png) no-repeat;
+	background-size: 96%;
+	position: relative;
+	top: 12px;
+	
+}
+
+/********************* container_8 end *******************/
+
+/********************* container_9 start *******************/
+
+.container_9{
+	height: 725px;
+}
+
+.flowers_h{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 39px;
+    text-align: center;
+}
+
+.flowers_p{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+}
+
+.flowers_bottom{
+    display: flex;
+    justify-content: center;
+
+}
+
+.flowers_photo1{
+	display: flex;
+	justify-content: center;
+	width: 367px;
+	height: 550px;
+	background: url(Img/block1.png) no-repeat;
+	margin-right: 10px;
+}
+.flowers_photos1{
+	width: 14px;
+	height: 14px;
+	background: url(Img/insta.svg.) no-repeat;
+	margin-top: 47px;
+	margin-left: 250px;
+}
+.flowers_photos1_p{
+	color: white;
+	height: 20px;
+	margin-left: 5px;
+	margin-top: 44px;
+}
+
+
+.flowers_photo2{
+	display: flex;
+	justify-content: center;
+	width: 367px;
+	height: 550px;
+	background: url(Img/block2.png) no-repeat;
+	margin-right: 10px;
+}
+
+.flowers_photos2{
+	width: 14px;
+	height: 14px;
+	background: url(Img/insta.svg.) no-repeat;
+	margin-top: 47px;
+	margin-left: 214px;
+}
+.flowers_photos2_p{
+	color: white;
+	height: 20px;
+	margin-left: 5px;
+	margin-top: 44px;
+}
+
+.flowers_photo3{
+	display: flex;
+	justify-content: center;
+	width: 367px;
+	height: 550px;
+	background: url(Img/block3.png) no-repeat;
+	margin-right: 10px;
+}
+
+.flowers_photos3{
+	width: 14px;
+	height: 14px;
+	background: url(Img/insta.svg.) no-repeat;
+	margin-top: 47px;
+	margin-left: 214px;
+}
+.flowers_photos3_p{
+	color: white;
+	height: 20px;
+	margin-left: 5px;
+	margin-top: 44px;
+}
+
+
+.black{
+	display: flex;
+	justify-content: center;
+	height: 200px;
+	
+}
+
+.clickme{
+	width: 9px;
+	height: 9px;
+	background-color: black;
+	margin: 2px;
+	margin-top: 13px;
+}
+
+/********************* container_9 end *******************/
+
+/******************** container_10 start *****************/
+
+.container_10{
+	height: 180px;
+}
+
+.written{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.cont_p1{
+	font-family: 'Cardo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.cont_p2{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: center;
+}
+.writtening{
+	display: flex;
+	justify-content: center;
+}
+.div1{
+	width: 10px;
+	height: 10px;
+	background-color: black;
+	margin-right: 7px;
+}
+.div2{
+	width: 7px;
+	height: 7px;
+	background-color: black;
+	margin-right: 7px;
+	margin-top: 2px;
+}
+.div3{
+	width: 3px;
+	height: 3px;
+	background-color: black;
+	margin-right: 7px;
+	margin-top: 4px;
+}
+/******************** container_10 end *****************/
+
+/******************** container_11 start *****************/
+
+.container_11{
+	display: flex;
+	height: 388px;
+	margin-left: 19px;
+}
+
+.design1{
+	height: 370px;
+	width: 360px;
+	display: flex;
+	flex-direction: column;
+
+}
+.design_pro{
+	background: url(Img/svet1.svg) no-repeat;
+	height: 100px;
+	width: 105px;
+	margin-left: 132px;
+	margin-top: 50px;
+
+}
+.design_p{
+	text-align: center;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px
+}
+
+.design_pi{
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    
+}
+.design_click{
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center; 
+    color: black;
+}
+
+
+.design2{
+	height: 370px;
+	width: 360px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.design_pro2{
+	background: url(Img/svet2.svg) no-repeat;
+	height: 100px;
+	width: 105px;
+	margin-left: 132px;
+	margin-top: 50px;
+
+}
+.design_p2{
+	text-align: center;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px
+}
+
+.design_pi2{
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.design3{
+	height: 370px;
+	width: 360px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.design_pro3{
+	background: url(Img/svet3.svg) no-repeat;
+	height: 100px;
+	width: 105px;
+	margin-left: 132px;
+	margin-top: 50px;
+
+}
+
+.design_p3{
+	text-align: center;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px
+}
+
+.design_pi3{
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.design4{
+	height: 370px;
+	width: 360px;
+	display: flex;
+	flex-direction: column;
+
+}
+.design_pro4{
+	background: url(Img/svet4.svg) no-repeat;
+	height: 100px;
+	width: 105px;
+	margin-left: 132px;
+	margin-top: 50px;
+
+}
+
+.design_p4{
+	text-align: center;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px
+}
+.design_pi4{
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+}
+
+/******************** container_11 end *****************/
+
+/******************** container_12 start *****************/
+
+.container_12{
+	height: 217px;
+}
+
+.brand_top{
+	text-align: center;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 50px;
+}
+
+.brand_bottom_star{
+	background: url(Img/brands.svg) no-repeat;
+	height: 100px;
+	margin-left: 35px;
+
+}
+/******************** container_12 end *****************/
+
+/********************* footer start *******************/
+
+.footer{
+	height: 380px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.footer_text1{
+	width: 230px;
+	text-align: center;
+
+}
+.footer_ul{
+	list-style-type: none;
+	width: 141px;
+}
+li {
+	margin-top: 20px;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+}
+h2{
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    margin-bottom: 35px;
+}
+
+.footer_text2{
+	width: 230px;
+	text-align: center;
+
+}
+
+.footer_text3{
+	width: 230px;
+	text-align: center;
+
+}
+
+.footer_text4{
+	width: 340px;
+	text-align: center;
+
+}
+
+button{
+	margin-top: 5px;
+	padding: 2px 50px;
+	font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+    background-color: white;
+}
+
+.images{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.img1{
+	background: url(Img/fsc.svg) no-repeat;
+	width: 66px;
+	height: 66px;
+	margin-right: 15px;
+	margin-top: 25px;
+}
+
+.img2{
+	background: url(Img/tree.svg) no-repeat;
+	width: 66px;
+	height: 66px;
+	margin-left: 15px;
+	margin-top: 25px;
+}
+
+.pilot{
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
+	
+}
+
+.pilottree{
+	background: url(Img/trustpilot.svg) no-repeat;
+	width: 239px;
+	height: 45px;
+	margin-top: 15px;
+}
+
+/********************* footer end *******************/
+
+/********************* footer2 start *******************/
+
+
+.footer_text_f{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+
+}
+
+.footer_img1{
+	background: url(Img/visa.svg) no-repeat;
+	width: 74px;
+	height: 28px;
+}
+.footer_img2{
+	background: url(Img/paypal.svg) no-repeat;
+	width: 74px;
+	height: 28px;
+}
+.footer_img3{
+	background: url(Img/mastercard.svg) no-repeat;
+	width: 74px;
+	height: 29px;
+}
+.footer_img4{
+	background: url(Img/AE.svg) no-repeat;
+	width: 74px;
+	height: 28px;
+}
+.footer_img5{
+	background: url(Img/klarna.svg) no-repeat;
+	width: 74px;
+	height: 28px;
+}
+
+/********************* footer2 end *******************/
